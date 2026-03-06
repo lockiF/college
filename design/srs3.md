@@ -46,7 +46,7 @@ Wireflow — це гібрид Wireframes та Flowcharts. Замість абс
 
 ### 5. Аналіз "Monster User Flow" на прикладі Spotify
 
-![Spotify Monster User Flow](https://github.com/lockiF/college/blob/main/os/MUF.png)
+![Spotify Monster User Flow](https://github.com/lockiF/college/blob/main/design/MUF.png)
 
 Як дизайнери групують блоки:
 1.  Кольорове кодування:
