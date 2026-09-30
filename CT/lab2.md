@@ -94,14 +94,3 @@
 Також я дослідив український ринок хмарних послуг і порівняв трьох найбільш конкурентних провайдерів: GigaCloud, De Novo та «Парковий». Вони пропонують сертифіковану інфраструктуру в Україні, що важливо для бізнесу й держсектору.
 
 Світові провайдери вигідніші масштабом і кількістю сервісів, українські — контролем над даними, відповідністю місцевому законодавству та підтримкою. Вибір залежить від завдання: для гнучкої розробки й експериментів зручніше AWS, для проєктів із вимогами до зберігання даних в Україні — український провайдер.
-
----
-
-## Використані джерела
-
-- https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025
-- https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/
-- https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/
-- https://kyivtime.co.ua/khmarnyy-rynok-ukrainy-u-2026-rotsi/
-- https://ain.ua/2022/09/15/najkrashhi-hmarni-servisy-ukrayiny-u-2022-roczi-doslidzhennya-molfar/
-- https://denovo.ua/en
